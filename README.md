@@ -38,7 +38,7 @@ The four golden rules of monitoring are:
 
 
 #
-# Setting up a cloud watch alarm that sends a notification when CPU usage is greater than 50%
+# Setting up a Cloud Watch alarm that sends a notification when CPU usage is greater than 50%
 
 1. Head to the Simple Notification Service dashboard
 2. Select subsciptions and create a subscription (if you have not yet created one)
