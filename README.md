@@ -37,7 +37,18 @@ The four golden rules of monitoring are:
 <img width="454" alt="Cloudwatch-monitering" src="https://user-images.githubusercontent.com/129315605/235125004-a89341a6-9925-40e6-9ea2-44db5a949b64.png">
 
 
+#
+# Setting up a cloud watch alarm that sends a notification when CPU usage is greater than 50%
 
-
+1. Head to the Simple Notification Service dashboard
+2. Select subsciptions and create a subscription (if you have not yet created one)
+3. Select Topics and Create a topic
+4. Choose the Standard type, name the topic and then create it
+5. Head back to the EC2 dashboard and select your instance
+6. Select Monitoring/Monitor and troubleshoot/Manage CloudWatch alarms
+7. Create alarm and Select your notification that you created
+8. Set the alarm threshold (in this case, >= 50% cpu utilisation), name the alarm and select Create
+- Your Alarm is now set up on the instance
+- You can test the alarm by running an infinite while loop on the instance
 
 
