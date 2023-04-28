@@ -34,6 +34,7 @@ The four golden rules of monitoring are:
 # Monitering diagram:
 
 <img width="591" alt="Monitering-diagram" src="https://user-images.githubusercontent.com/129315605/235124691-ce5032ac-a880-403f-8bc8-c4b942b33123.png">
+<img width="454" alt="Cloudwatch-monitering" src="https://user-images.githubusercontent.com/129315605/235125004-a89341a6-9925-40e6-9ea2-44db5a949b64.png">
 
 
 
