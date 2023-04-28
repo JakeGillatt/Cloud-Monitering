@@ -1,20 +1,34 @@
-# Why do we need to moniter
+# Why do we need to moniter?
 
+Monitoring is essential for ensuring the health, performance, and availability of your applications and infrastructure. Some reasons why we should use monitoring are:
 
+- Early detection of issues: Monitoring allows you to detect and identify issues before they become critical. This helps you to proactively address problems, minimize downtime, and prevent service disruptions.
 
+- Improved system performance: Monitoring helps you to identify bottlenecks, optimize resource utilization, and improve system performance. By analyzing performance metrics, you can make data-driven decisions to optimize your infrastructure and application performance.
+
+- Increased reliability and availability: Monitoring helps you to ensure that your applications and services are always available to your users. By monitoring your system, you can identify and resolve issues quickly, minimize downtime, and improve system reliability.
+
+- Better user experience: Monitoring helps you to understand how your application is performing from the user's perspective. By monitoring user experience metrics, such as response time and availability, you can ensure that your users have a positive experience when using your application.
+
+- Cost optimization: Monitoring helps you to optimize your infrastructure and application costs by identifying areas of inefficiency, overutilization, or underutilization. By optimizing resource utilization, you can reduce costs and improve your return on investment.
+
+Monitoring is critical for ensuring the health, performance, and availability of your applications and infrastructure. It allows you to identify and resolve issues quickly, optimize performance, and improve the user experience.
+
+#
 # What are the 4 golden rules of monitering?
 
-Latency: The time it takes for a request to be serviced, which can indicate the responsiveness and performance of a system.
+The four golden rules of monitoring are:
 
-Traffic: The amount of demand being placed on a system, measured in requests per second, and can help in scaling the system up or down depending on the volume of requests.
+- Know your baseline: Establish a baseline for your application's performance and behavior under normal conditions. This baseline provides a reference point for identifying and diagnosing anomalies and deviations from expected behavior.
 
-Errors: The rate of requests that are failing, either explicitly (such as HTTP 500 errors) or implicitly (such as returning the wrong content), and can help in identifying and resolving issues in the system.
+- Monitor proactively: Monitor your application and infrastructure proactively to identify issues before they become critical. This helps to minimize downtime, prevent service disruptions, and improve overall system reliability.
 
-Saturation: How full a system is in terms of resource utilization, and can help in identifying when a system is approaching its capacity limits.
+- Use meaningful metrics: Use metrics that are relevant and meaningful to your application's performance and business objectives. Collect data on key performance indicators (KPIs) such as response time, throughput, error rates, and resource utilization.
 
-Using these four rules in monitoring can help in identifying and diagnosing issues in a distributed system, as well as optimizing and scaling the system for better performance and reliability.
+- Automate wherever possible: Use automation to streamline monitoring and alerting processes. Automate data collection, analysis, and reporting to reduce the risk of human error and ensure timely notifications of critical events. This also helps to minimize manual intervention and frees up resources for other important tasks.
 
-
+#
+# What is Alert Management?
 
 
 
