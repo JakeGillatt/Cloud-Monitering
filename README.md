@@ -30,6 +30,12 @@ The four golden rules of monitoring are:
 #
 # What is Alert Management?
 
+#
+# Monitering diagram:
+
+<img width="591" alt="Monitering-diagram" src="https://user-images.githubusercontent.com/129315605/235124691-ce5032ac-a880-403f-8bc8-c4b942b33123.png">
+
+
 
 
 
